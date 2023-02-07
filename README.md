@@ -1,6 +1,6 @@
 - Hi, I’m @ajaxromik
 - I’m interested in software development and cybersecurity
-- I’m currently learning how to brute force a math problem that depends on many random variables
+- I’m currently learning how to use CRUD forms
 - I’m looking to collaborate on Java or Python
 - How to reach me: @ajaxromik
 
