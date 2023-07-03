@@ -1,7 +1,7 @@
 - Hi, I’m @ajaxromik
-- I’m interested in software development and cybersecurity
-- I’m currently learning how to use CRUD forms
-- I’m looking to collaborate on Java or Python
+- Interested in software development and cybersecurity
+- Learning React
+- Looking to collaborate on anything interesting, just reach out!
 - How to reach me: @ajaxromik
 
 <!---
