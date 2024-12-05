@@ -1,7 +1,6 @@
 - Hi, I’m @ajaxromik
-- Interested in devops, data visualization, front-end design, and cybersecurity
-- Learning MySQL, Linux, and Python + studying about data structures using Java
-- Looking to collaborate on anything interesting, just reach out!
+- Interested in devops, data visualization, and cybersecurity
+- Learning statistics and some new programming languages(Rust, Lua, Haskell)
 - How to reach me: @ajaxromik
 
 <!---
