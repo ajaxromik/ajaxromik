@@ -1,6 +1,6 @@
 - Hi, I’m @ajaxromik
-- Interested in devops, data visualization, and cybersecurity
-- Learning statistics and some new programming languages(Rust, Lua, Haskell)
+- Interested in software development, data visualization, cybersecurity, and tech in general
+- Currently setting up a personal website and mainly working towards graduation
 - How to reach me: @ajaxromik
 
 <!---
